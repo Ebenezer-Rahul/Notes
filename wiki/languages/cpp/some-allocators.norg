@@ -1,0 +1,11 @@
+* ( )Some Custom Allocators
+** null-allocator
+** Fall-backallocator
+   Primaray, Fallback
+   owns ()
+** stack-allocator
+** Free-List allocator **
+   Parent 
+** Bit block
+** segregate allocator 
+** slab-allocator 

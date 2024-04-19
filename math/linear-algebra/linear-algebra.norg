@@ -1,0 +1,33 @@
+@document.meta
+title: linear-algebra
+description: 
+authors: ebenezerrahul
+categories: 
+created: 2024-04-07T16:41:20+0530
+updated: 2024-04-07T21:01:40+0530
+version: 1.1.1
+@end
+
+* Linear Algebra
+** ( ) understanding basis
+** ( ) Projection
+** Matrices
+*** ( ) Matrices as Transformations
+    |Important
+    - Understanding Change of basis
+    - How Think of transformationb
+    |end
+**** Eigen Vectors & Values
+*** ( ) Matrices as Operations
+*** ( ) Matrices as Vectors
+**** Inner Products of Matrices 
+***** Ferbinious Norm
+***** Streach Norm
+** ( ) Symmetric Matrices
+** ( ) Spectral Therom
+** ( ) SVD /Singular Value Decomposition/
+*** ( ) Studing Symmetryic Matrices [prerequisite]
+*** ( ) Approximating a matrix 
+    - one application is image Compression using svd
+    
+^^ references

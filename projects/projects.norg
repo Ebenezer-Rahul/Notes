@@ -1,0 +1,13 @@
+@document.meta
+title: projects
+description: 
+authors: ebenezerrahul
+categories: 
+created: 2024-04-07T16:17:46+0530
+updated: 2024-04-07T16:26:45+0530
+version: 1.1.1
+@end
+
+* *Projects*
+** ( )Text Editor {:text-editor/text-editor:}
+** (-) Final year {:finalyear/Music:}

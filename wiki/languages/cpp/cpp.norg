@@ -1,0 +1,13 @@
+@document.meta
+title: cpp
+description: 
+authors: ebenezerrahul
+categories: 
+created: 2024-04-07T17:38:33+0530
+updated: 2024-04-07T17:39:36+0530
+version: 1.1.1
+@end
+
+* cpp
+** custom Allocators {:custom-allocators:}
+*** Some Allocators{:some-allocators:}

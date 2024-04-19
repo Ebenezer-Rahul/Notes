@@ -1,0 +1,15 @@
+@document.meta
+title: math
+description: 
+authors: ebenezerrahul
+categories: 
+created: 2024-04-07T16:30:33+0530
+updated: 2024-04-07T20:59:23+0530
+version: 1.1.1
+@end
+
+* Math
+** Linear Algebra {:linear-algebra/linear-algebra:}
+** Calculus
+** Probability
+** Statistics

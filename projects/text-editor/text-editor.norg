@@ -1,0 +1,21 @@
+@document.meta
+title: text-editor
+description: 
+authors: ebenezerrahul
+categories: 
+created: 2024-04-07T16:24:03+0530
+updated: 2024-04-07T16:53:33+0530
+version: 1.1.1
+@end
+
+* Text Editor
+** ( ) Design {:Design/design:}
+** Data-structures
+*** ( ) Ropes
+*** ( ) Gap Buffer
+*** ( ) Piece Table
+*** ( ) immutatble vector immer
+** ( ) Inpiration/Resources
+** Usage
+
+^^ references

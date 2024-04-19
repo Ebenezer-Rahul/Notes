@@ -1,0 +1,58 @@
+@document.meta
+title: tools
+description: 
+authors: ebenezerrahul
+categories: 
+created: 2024-04-07T17:40:24+0530
+updated: 2024-04-07T17:40:25+0530
+version: 1.1.1
+@end
+
+* Tools 
+  - printf
+  - echo
+  - sed
+  - grep
+  - paste
+  - nvim
+  - ffmpeg
+  - git
+  - find
+  - awk
+  - sort
+  - ssh
+  - make
+  - g++
+  - cmake
+  - python
+  - R
+  - curl
+  - xargs
+  - ctags
+  - lsp
+  - zip
+  - tar
+  - cron
+  - convert
+  - gzip
+  - Unite.vim
+  - date
+  - tee
+  - feh
+  - nnn
+  - tail
+  - head
+  - less
+  - wc
+  - bc
+  - uniq
+  - nohup
+  - bg and fg in detail
+  - rsync
+  - scp
+  - ssh-keygen
+  - ssh-copy-id
+  - fzf
+  - jq
+  -  gdb
+  - strace

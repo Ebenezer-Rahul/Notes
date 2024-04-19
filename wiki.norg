@@ -1,0 +1,19 @@
+@document.meta
+title: wiki
+description: 
+authors: ebenezerrahul
+categories: 
+created: 2024-04-07T15:18:19+0530
+updated: 2024-04-07T17:45:33+0530
+version: 1.1.1
+@end
+
+*index* {:index:}
+___
+* *wiki*
+** languages {:wiki/languages/languages:}
+** data-structures
+** linux {:wiki/linux/linux:}
+** algorithms {:wiki/algorithms/algorithms:}
+** performance engineering {:wiki/performance engineering:}
+

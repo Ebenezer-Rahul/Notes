@@ -1,0 +1,25 @@
+@document.meta
+title: heavy-hitters
+description: 
+authors: ebenezerrahul
+categories: 
+created: 2024-04-07T17:38:05+0530
+updated: 2024-04-07T17:41:52+0530
+version: 1.1.1
+@end
+
+* Heavy Hitters
+** problem
+   Find elements with a freqency of 1/k in an array or stream
+   without having to maintain a map of size o(n)
+   do it in o(k) 
+** idea 
+   Same idea as that of majority element but instead of having a single element and a single count
+   variable 
+   whenever an element comes which is one of the k elements incr the corressponding element
+   and whenever none comes just decrement all of them when one of them gets to < 0 replace it with the new element
+
+
+   // still doubts on how to verify ??
+
+
