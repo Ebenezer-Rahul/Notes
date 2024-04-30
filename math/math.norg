@@ -10,6 +10,6 @@ version: 1.1.1
 
 * Math
 ** Linear Algebra {:linear-algebra/linear-algebra:}
-** Calculus
+** Calculus {:calculus/calculus:}
 ** Probability
 ** Statistics
